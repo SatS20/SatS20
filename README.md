@@ -74,7 +74,7 @@ From very early on in my life, I started to fall in love with science and techno
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 
 <hr/>
-<img align="center" src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+<p align="center"> <img align="center" src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"></p>
 <img src="https://imgur.com/rilHVxA.png"/> 
  
                                                                                                       
