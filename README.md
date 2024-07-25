@@ -1,13 +1,20 @@
-
-<h1 align="center">Hi👋, I'm Satvik S </h1>
+<h1 align="center">Welcome to my github! 👋</h1>
+<img alt="header image" src="https://github.com/SatS20/SatS20/blob/main/github-header-image.png" width="100%"/>
 
 <h3 align="center">🚀  Data Analyst | Business Analyst | Full Stack Developer 🚀</h3>
 <p align="center"><a href="https://www.linkedin.com/in/sat-s"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Satvik%20S-blue?style=flat-square&logo=linkedin"></a></p>
 
 ## About me :mortar_board:
 ### I'm an Engineer and Life Long Learner!
-I am a student, currently studying in Vellore Institute of Technology. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
+From very early on in my life, I started to fall in love with science and technology 😍 This love has helped me develop curiousity mindset 🧠, and willingness to learn more. 
 
+- &nbsp;Always eager to learn new tools and techniques.
+- &nbsp;Business Analyst with 1.4 year of experience in BFSI domain.
+- &nbsp;Passionate about solving challenges and finding creative solutions and leverage data to drive actionable insights and decisions.
+- &nbsp;Craft intuitive and engaging user interfaces using HTML, CSS, and JavaScript,Figma and frameworks like React.
+
+## What I want to do next :thinking:
+- Learn more about  AI and ML, Data Science and Data Engineering. 
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height="400">
 <h3> 🛠 &nbsp;Languages and Tools</h3>
@@ -66,14 +73,11 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 
-
-
-
-
-
+<hr/>
+<img align="right" src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"> 
 <img src="https://imgur.com/rilHVxA.png"/> 
-
-<p align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"> </p>                                                                                                         
+ 
+                                                                                                      
                                                                                                          
                                                                                                          
                                                                                                          
