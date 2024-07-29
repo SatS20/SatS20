@@ -16,7 +16,7 @@ From very early on in my life, I started to fall in love with science and techno
 ## What I want to do next :thinking:
 - Learn more about  AI and ML, Data Science and Data Engineering. 
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="400">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="300">
 <h3> 🛠 &nbsp;Languages and Tools</h3>
 
 - &nbsp;
