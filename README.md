@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my github! 👋</h1>
 <img alt="header image" src="https://github.com/SatS20/SatS20/blob/main/github-header-image.png" width="100%"/>
 
-<h3 align="center">🚀  Data Analyst | Business Analyst | Full Stack Developer 🚀</h3>
+<h3 align="center">🚀  Data Analyst | Business Analyst  🚀</h3>
 <p align="center"><a href="https://www.linkedin.com/in/sat-s"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Satvik%20S-blue?style=flat-square&logo=linkedin"></a></p>
 
 ## About me :mortar_board:
@@ -21,7 +21,6 @@ From very early on in my life, I started to fall in love with science and techno
 
 - &nbsp;
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?&logo=Matplotlib&logoColor=black)
@@ -42,13 +41,7 @@ From very early on in my life, I started to fall in love with science and techno
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
-
-- &nbsp;
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
-[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
-[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 
 - &nbsp;
@@ -141,4 +134,11 @@ Here are some ideas to get you started:
 [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)](#)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/)
+
+- &nbsp;
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 -->
