@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my github! 👋</h1>
 <img alt="header image" src="https://github.com/SatS20/SatS20/blob/main/github-header-image.png" width="100%"/>
 
-<h3 align="center">🚀  Data Analyst | Business Analyst  🚀</h3>
+<h3 align="center">🚀 Driving meaningful insights from Data  |  Build Intutive UI's  |   Tech Sales  |  Research  |  Continuous Learning   🚀</h3>
 <p align="center"><a href="https://www.linkedin.com/in/sat-s"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Satvik%20S-blue?style=flat-square&logo=linkedin"></a></p>
 
 ## About me :mortar_board:
